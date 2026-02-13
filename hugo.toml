@@ -1,0 +1,16 @@
+baseURL = "https://labs.esokia.com"
+title = "Esokia Labs"
+languageCode = "fr-fr"
+theme = "beautifulhugo"
+
+[Params]
+  subtitle = "Security advisories & research notes"
+  mainSections = ["cve"]
+
+[permalinks]
+  cve = "/cve/:slug/"
+
+[[menu.main]]
+  name = "CVE"
+  url = "cve/"
+  weight = 1
