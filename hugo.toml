@@ -6,6 +6,7 @@ theme = "beautifulhugo"
 [Params]
   subtitle = "Security advisories & research notes"
   mainSections = ["cve"]
+#  logo = "img/esokia.png"
 
 [permalinks]
   cve = "/cve/:slug/"
