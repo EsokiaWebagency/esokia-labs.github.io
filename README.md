@@ -27,8 +27,3 @@ https://labs.esokia.com
 - Markdown content (`content/`)
 - GitHub Actions (CI/CD deployment)
 - GitHub Pages hosting
-
----
-
-## 📂 Repository Structure
-
